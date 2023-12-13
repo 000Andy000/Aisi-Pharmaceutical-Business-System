@@ -5,7 +5,7 @@ package com.ascent.bean;
  */
 
 public class Mailtb implements java.io.Serializable {
-
+   // 一些修改
 	// Fields
 
 	private Integer mid;
